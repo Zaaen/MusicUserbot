@@ -3,12 +3,12 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=Blue" /></a>
-    <a href="https://github.com/ZaenXP/MusicUserbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-Blue.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/ZaenXP/MusicUserbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=Blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/ZaenXP/MusicUserbot"> <img src="https://img.shields.io/github/repo-size/ZaenXP/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
-    <a href="https://github.com/ZaenXP/MusicUsetbot/issues"> <img src="https://img.shields.io/github/issues/ZaenXP/MusicUserbot?color=Blue&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/ZaenXP/MusicUserbot/network/members"> <img src="https://img.shields.io/github/forks/ZaenXP/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
-    <a href="https://github.com/ZaenXP/MusicUserbot/network/members"> <img src="https://img.shields.io/github/stars/ZaenXP/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
+    <a href="https://github.com/Zaaen/MusicUserbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-Blue.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/Zaaen/MusicUserbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=Blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/Zaaen/MusicUserbot"> <img src="https://img.shields.io/github/repo-size/Zaaen/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
+    <a href="https://github.com/Zaaen/MusicUsetbot/issues"> <img src="https://img.shields.io/github/issues/Zaaen/MusicUserbot?color=Blue&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Zaaen/MusicUserbot/network/members"> <img src="https://img.shields.io/github/forks/Zaaen/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
+    <a href="https://github.com/Zaaen/MusicUserbot/network/members"> <img src="https://img.shields.io/github/stars/Zaaen/MusicUserbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
 </p>
 
 

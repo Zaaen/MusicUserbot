@@ -45,14 +45,14 @@ async def ping(client, m: Message):
    end = datetime.now()
    uptime_sec = (current_time - START_TIME).total_seconds()
    uptime = await _human_time_duration(int(uptime_sec))
-   await m_reply.edit(f"**┞◈𝗣𝗼𝗻𝗴!!🏓**\n**┞◈Pinger**  - {delta_ping * 1000:.3f} ms \n**┞◈Uptime** - {uptime}")
+   await m_reply.edit(f"**𝗣𝗼𝗻𝗴!!🏓**\n**•Pinger**  - {delta_ping * 1000:.3f} ms \n**•Uptime** - {uptime}")
 
 
 @Client.on_message(filters.command(["pong"], prefixes=f"{HNDLR}"))
 async def pong(client, m: Message):
    start = time()
    current_time = datetime.utcnow()
-   pong = await m.edit("kontol jamet...")
+   pong = await m.edit("slow jamet...")
    delta_ping = time() - start
    await pong.edit("❏◈===❏")
    await pong.edit("❏=◈==❏")
@@ -77,4 +77,4 @@ async def pong(client, m: Message):
    uptime_sec = (current_time - START_TIME).total_seconds()
    uptime = await _human_time_duration(int(uptime_sec))
    await pong.edit(
-       f"**❏MusicUserbot**\n**❏NGENTOT** : {delta_ping * 1000:.3f} ms\n**❏Bot Uptime** : {uptime}")
+       f"**❏MusicUserbot**\n**❏Pinger** : {delta_ping * 1000:.3f} ms\n**❏Bot Uptime** : {uptime}")

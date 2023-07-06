@@ -20,12 +20,16 @@ async def help(client, m: Message):
 • {HNDLR}play [judul lagu | link youtube | balas file audio] - untuk memutar lagu
 • {HNDLR}videoplay [judul video | link youtube | balas file video] - untuk memutar video
 • {HNDLR}playlist untuk melihat daftar putar
-• {HNDLR}ping - untuk cek status
 • {HNDLR}id - untuk melihat id pengguna
 • {HNDLR}video - judul video | link yt untuk mencari video
 • {HNDLR}song - judul lagu | link yt untuk mencari lagu
 • {HNDLR}help - untuk melihat daftar perintah
 • {HNDLR}join- untuk join | ke grup 
+
+⚡PERINTAH UNTUK SUDO USER
+• {HNDLR}ping - untuk cek status
+• {HNDLR}eval - untuk kelola bot
+• {HNDLR}restart - untuk restart MusicUserbot
 
 ⚡ PERINTAH UNTUK SEMUA ADMIN
 • {HNDLR}resume - untuk melanjutkan pemutaran lagu atau video

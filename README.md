@@ -22,7 +22,7 @@
    
 <img src="https://telegra.ph/file/613f681a511feb6d1b186.jpg">
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ZaenXP/MusicUserbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Zaaen/MusicUserbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4>Klik tombol di bawah untuk Deploy MusicUserbot di Okteto!!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Zaaen/MusicUserBot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="220""/></a>

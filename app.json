@@ -10,21 +10,7 @@
     "repository": "https://github.com/Zaaen/MusicUserbot",
     "env": {
         "SESSION": {
-            "description": "Pyrogram String Session",
-            "required": true
-        },
-        "API_ID": {
-            "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps",
-            "required": true
-        },
-        "HNDLR": {
-            "description": "ini akan digunakan sebagai prefix di semua perintah",
-            "required": true,
-            "value": "+"
-        },
-        "API_HASH": {
-            "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps",
-            "required": true
+            "description": "Pyrogram String Session",            "required": true        
         },
         "SUDO_USERS": {
             "description": "Daftar User ID pengguna dihitung sebagai admin di semua tempat (pemisah menggunakan space)",
